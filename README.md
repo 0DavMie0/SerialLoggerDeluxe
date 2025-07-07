@@ -43,6 +43,9 @@ Ideal para scripting, automatización o para trabajar en entornos sin escritorio
 *   Python 3.7 o superior.
 *   Las bibliotecas necesarias, que se pueden instalar fácilmente.
 
+## Versión compilada
+*  En Releases está la versión compilada para Windows mediante "Auto Py to Exe".
+    https://github.com/0DavMie0/SerialLoggerDeluxe/releases/tag/v1.7.0
 ## Instalación
 
 1.  **Clona el repositorio:**
