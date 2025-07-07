@@ -7,7 +7,7 @@
 
 **SerialLogger** es una herramienta multiplataforma, escrita en Python, diseñada para la monitorización, depuración y comunicación con dispositivos de puerto serie, como Arduino, ESP32 y otros microcontroladores.
 
-Este proyecto es una conversión y una mejora significativa de la aplicación original [SerialLogger en Java](https://github.com/hani-ibrahim/serial-logger) de Hani Andreas Ibrahim, modernizada y ampliada con la asistencia de la IA de Google.
+Este proyecto es una conversión y una mejora significativa de la aplicación original [SerialLogger en Java](https://github.com/haniibrahim/SerialLogger/) de Hani Andreas Ibrahim, modernizada y ampliada con la asistencia de la IA de Google.
 
 ## Características Principales
 
