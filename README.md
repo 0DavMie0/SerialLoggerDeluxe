@@ -99,3 +99,21 @@ Ejemplo completo con más opciones:
 ```bash
 python SerialLogger.py -p COM3 -b 115200 --encoding latin-1 --timestamp "Date|Time" -l mi_sesion.log --no-dtr
 ```
+*   -p COM3: Conecta al puerto COM3.
+*   -b 115200: Usa un baud rate de 115200.
+*   --encoding latin-1: Decodifica los bytes usando la codificación latin-1.
+*   --timestamp "Date|Time": Añade fecha y hora a cada línea en la consola.
+*   -l mi_sesion.log: Guarda la salida en el archivo mi_sesion.log.
+*   --no-dtr: Desactiva el auto-reset por DTR.
+
+Para ver toda la ayuda del CLI:
+```bash
+python SerialLogger.py --help
+```
+
+Créditos
+*   Autor Original (Java): Hani Andreas Ibrahim. El concepto y la estructura base provienen de su excelente proyecto SerialLogger.
+*   Conversión a Python y Mejoras: Realizada con la asistencia de la IA de Google.
+
+Licencia
+Este proyecto se distribuye bajo la licencia GNU Public License 3.0, al igual que el proyecto original.
